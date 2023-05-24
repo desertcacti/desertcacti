@@ -6,7 +6,7 @@
 </p>
  -->
  <p align="center">
-  <img src="./images/a.jpg" alt="Screenshot" style="width: 50%;">
+  <img src="./images1/a.jpg" alt="Screenshot" style="width: 50%;">
 </p>
 
 - 🔭 I am currently working on my github projects and developing my programming skills <fire>
@@ -16,7 +16,7 @@
   
   
   <p align="center">
-  <img src="./images/a.jpg" alt="Screenshot" style="width: 50%;">
+  <img src="./images1/a.jpg" alt="Screenshot" style="width: 50%;">
 </p>
 <!-- <p align="center">
   <img src="./images1/p2.jpg" alt="Screenshot" style="width: 100%; max-height: 100px;">
