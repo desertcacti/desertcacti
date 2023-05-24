@@ -9,13 +9,13 @@
 
 <div align="justify">
 
-<h3 style="font-size: 18px;">🔭 Currently, I am fully immersed in working on my GitHub projects and honing my programming skills.</h3>
+<h2 style="font-size: 18px;">🔭 Currently, I am fully immersed in working on my GitHub projects and honing my programming skills.</h2>
 
-<h3 style="font-size: 18px;">🌱 I am continuously exploring various intriguing areas, including the paradigms of web development and microservices architecture.</h3>
+<h2 style="font-size: 18px;">🌱 I am continuously exploring various intriguing areas, including the paradigms of web development and microservices architecture.</h2>
 
-<h3 style="font-size: 18px;">👯 I am seeking an environment where I can grow, surrounded by ambitious and enthusiastic people who share my interests and passions.</h3>
+<h2 style="font-size: 18px;">👯 I am seeking an environment where I can grow, surrounded by ambitious and enthusiastic people who share my interests and passions.</h2>
 
-<h3 style="font-size: 18px;">⚡ I have an insatiable curiosity that drives me to dive deep into diverse subjects, expanding my horizons and embracing new experiences.</h3>
+<h2 style="font-size: 18px;">⚡ I have an insatiable curiosity that drives me to dive deep into diverse subjects, expanding my horizons and embracing new experiences.</h2>
 
 </div>
 
