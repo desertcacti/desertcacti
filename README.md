@@ -1,10 +1,9 @@
 ### Hi there! My name is Konrad!
 
-<!-- ![Screenshot](./images/a.jpg = 250x250) -->
-<p align="center">
-  <img src="./images/a.jpg" alt="Screenshot" width="800">
-</p>
 
+<p align="center">
+  <img src="./images/a.jpg" alt="Screenshot" style="max-width: 100%; height: auto;">
+</p>
 
 - 🔭 I am currently working on my github projects and developing my programming skills <fire>
 - 🌱 I’m currently learning almost evcerything which appears interesting and paradigmats of web development, microservices architecture.
