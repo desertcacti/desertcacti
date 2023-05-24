@@ -1,7 +1,9 @@
 ### Hi there! My name is Konrad!
 
-![Screenshot](./images/a.jpg = 250x250)
-
+<!-- ![Screenshot](./images/a.jpg = 250x250) -->
+<p align="center">
+  <img src="./images/a.jpg" alt="Screenshot" width="800">
+</p>
 
 
 - 🔭 I am currently working on my github projects and developing my programming skills <fire>
