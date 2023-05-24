@@ -1,4 +1,6 @@
-### Hi there I am konrad !
+<p align="center">
+  <h1 align="center">Hi there! My name is Konrad</h1>
+</p>
 
 <p align="center">
   <img src="./images1/p1.jpg" alt="Screenshot" style="width: 100%; max-height: 15%;">
