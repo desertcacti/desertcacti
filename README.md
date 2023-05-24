@@ -1,7 +1,6 @@
 ### Hi there! My name is Konrad!
 
 ![Screenshot](./gh)
-![Screenshot](./a)
 
 
 - 🔭 I am currently working on my github projects and developing my programming skills <fire>
