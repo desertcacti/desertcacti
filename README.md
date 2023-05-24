@@ -33,7 +33,7 @@
 # 🙌 Hi there! My name is Konrad 🙌
 
 <p align="center">
-  <img src="./images1/p2.jpg" alt="Screenshot" style="width: 100%; max-height: 10%;">
+  <img src="./images1/p1.jpg" alt="Screenshot" style="width: 100%; max-height: 10%;">
 </p>
 </div>
 
