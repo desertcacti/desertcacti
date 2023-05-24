@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./images/a.jpg" alt="Screenshot" style="width: 75; max-height: 30px;">
+  <img src="./images/p1.jpg" alt="Screenshot" style="width: 100%; max-height: 100px;">
 </p>
 
 - 🔭 I am currently working on my github projects and developing my programming skills <fire>
@@ -11,4 +11,7 @@
 - ⚡ Fun fact: I am very into: 
   
   
-  ![Screenshot](./gh.png)
+  
+<p align="center">
+  <img src="./images/p2.jpg" alt="Screenshot" style="width: 100%; max-height: 100px;">
+</p>
