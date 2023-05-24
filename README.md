@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="./images1/p1.jpg" alt="Screenshot" style="width: 100%; max-height: 15%;">
+  <img src="./images1/p1.jpg" alt="Screenshot" style="width: 100%; max-height: 10%;">
 </p>
 
-- 🔭 I am currently working on my github projects and developing my programming skills <fire>
-- 🌱 I’m currently learning almost evcerything which appears interesting and paradigmats of web development, microservices architecture.
-- 👯 I looking for a place where I will be able developing my skills surrounded by ambitious and cheerful people whi will split with me my interests and zakochania
-- ⚡ Fun fact: I am very into: 
+🔭 Currently, I am fully immersed in working on my GitHub projects and honing my programming skills. 🔥
+🌱 I am continuously exploring various intriguing areas, including the paradigms of web development and microservices architecture. 🌐 
+👯 I am eagerly seeking an environment where I can grow, surrounded by ambitious and enthusiastic individuals who share my interests and passions. ⚡️
+⚡ Fun fact: I have an insatiable curiosity that drives me to dive deep into diverse subjects, expanding my horizons and embracing new experiences. 📚
   
 <p align="center">
-  <img src="./images1/p2.jpg" alt="Screenshot" style="width: 100%; max-height: 15%;">
+  <img src="./images1/p2.jpg" alt="Screenshot" style="width: 100%; max-height: 10%;">
 </p>
