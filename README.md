@@ -3,7 +3,7 @@
 # 🙌 Hi there! My name is Konrad 🙌
 
 <p align="center">
-  <img src="./images1/p2.jpg" alt="Screenshot" style="width: 100%; max-height: 10%;">
+  <img src="./images1/p2.jpg" alt="Screenshot" style="width: 75%; max-height: 7.5%;">
 </p>
 </div>
 
@@ -22,7 +22,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./images1/p2.jpg" alt="Screenshot" style="width: 100%; max-height: 10%;">
+  <img src="./images1/p2.jpg" alt="Screenshot" style="width: 75%; max-height: 7.5%;">
 </p>
   
 </div>
