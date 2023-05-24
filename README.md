@@ -1,6 +1,6 @@
 ### Hi there! My name is Konrad!
 
-![Screenshot](./images/a.png)
+![Screenshot](./images/a.jpg)
 
 
 
