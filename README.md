@@ -30,7 +30,7 @@
 
 ### 👯 I am seeking an environment where I can grow, surrounded by ambitious and enthusiastic people who share my interests and passions. 
 
-### ⚡ I have an insatiable curiosity that drives me to dive deep into diverse subjects, expanding my horizons and embracing new experiences. 📚
+### ⚡ I have an insatiable curiosity that drives me to dive deep into diverse subjects, expanding my horizons and embracing new experiences. 
 
 <div align="center">
 
