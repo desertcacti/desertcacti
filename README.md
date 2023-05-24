@@ -6,9 +6,9 @@
   <img src="./images1/p1.jpg" alt="Screenshot" style="width: 100%; max-height: 10%;">
 </p>
 
-🔭 Currently, I am fully immersed in working on my GitHub projects and honing my programming skills. 🔥
-🌱 I am continuously exploring various intriguing areas, including the paradigms of web development and microservices architecture. 🌐 
-👯 I am eagerly seeking an environment where I can grow, surrounded by ambitious and enthusiastic individuals who share my interests and passions. ⚡️
+🔭 Currently, I am fully immersed in working on my GitHub projects and honing my programming skills. 🔥\
+🌱 I am continuously exploring various intriguing areas, including the paradigms of web development and microservices architecture. 🌐 \
+👯 I am eagerly seeking an environment where I can grow, surrounded by ambitious and enthusiastic individuals who share my interests and passions. ⚡️\
 ⚡ Fun fact: I have an insatiable curiosity that drives me to dive deep into diverse subjects, expanding my horizons and embracing new experiences. 📚
   
 <p align="center">
