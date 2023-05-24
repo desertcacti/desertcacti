@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./images/a.jpg" alt="Screenshot" style="width: 120%; max-height: 100px;">
+  <img src="./images/a.jpg" alt="Screenshot" style="width: 75; max-height: 30px;">
 </p>
 
 - 🔭 I am currently working on my github projects and developing my programming skills <fire>
