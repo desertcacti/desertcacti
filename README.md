@@ -1,7 +1,7 @@
 ### Hi there! My name is Konrad!
 
 <p align="center">
-  <img src="./images1/p1.jpg" alt="Screenshot" style="width: 100%; max-height: 25%;">
+  <img src="./images1/p1.jpg" alt="Screenshot" style="width: 100%; max-height: 15%;">
 </p>
 
 - 🔭 I am currently working on my github projects and developing my programming skills <fire>
@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I am very into: 
   
 <p align="center">
-  <img src="./images1/p2.jpg" alt="Screenshot" style="width: 100%; max-height: 25%;">
+  <img src="./images1/p2.jpg" alt="Screenshot" style="width: 100%; max-height: 15%;">
 </p>
